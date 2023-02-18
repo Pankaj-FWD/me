@@ -184,7 +184,7 @@ export const ProgrammingSkills = [
     },
     {
       sr: "2",
-      projectLink: "admin.daloriansl7.com/",
+      projectLink: "https://admin.daloriansl7.com/",
       projectName: "Dalorians-L7",
       languages: "React & Node"
     },

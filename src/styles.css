@@ -300,3 +300,27 @@ section {
 .scrollable{
   overflow:auto;
 }
+
+.DownloadButton {
+  background-color: #11ecc3;
+  border: none;
+  color: #06114a;
+  font-size: 14px;
+padding: 10px 8px 8px 26px ;
+margin: 5px 0px 0px 6px;
+  border-radius: 5px;
+  cursor: pointer;
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}

@@ -14,9 +14,16 @@ class App extends React.Component {
       <Container fluid>
         <Row>
           <Col lg={3}>
+         
             <Profile />
+            <a href="https://drive.google.com/file/d/1uWfwFZfGjYjanfkqtVHEektdf3sjMXxO/view?usp=sharing" target="_blank" download>
+      <button className="DownloadButton">
+        Please click here to download Resume
+      </button>
+    </a>
           </Col>
           <Col lg={9}>
+          
             <CustomTabPane />
           </Col>
         </Row>

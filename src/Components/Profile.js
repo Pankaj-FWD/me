@@ -14,6 +14,7 @@ class Profile extends React.Component {
         </Row>
         <Row>
           <Col>
+          
             <h1 className="name"> {Name} </h1>
             <h4 className="name">Full stack developer (MERN)</h4>
           </Col>

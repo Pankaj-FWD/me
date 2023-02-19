@@ -23,11 +23,6 @@ export default class Footer extends React.Component {
               <i class="fa fa-map-marker"></i>
               <p>Contact Me -</p>
             </div>
-
-            <div>
-              <i class="fa fa-phone"></i>
-              <p>+91-8174979703</p>
-            </div>
             <div>
               <i class="fab fa-whatsapp"></i>
               <p>
@@ -38,7 +33,10 @@ export default class Footer extends React.Component {
               </a>
               </p>
             </div>
-
+            <div>
+              <i class="fa fa-phone"></i>
+              <p>+91-8174979703</p>
+            </div>
             <div>
               <i class="fa fa-envelope"></i>
               <p>

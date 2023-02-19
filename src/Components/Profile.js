@@ -45,6 +45,11 @@ class Profile extends React.Component {
                 <i class="fab fa-github"></i>
               </a>
             </div>
+            <a href="https://drive.google.com/file/d/1uWfwFZfGjYjanfkqtVHEektdf3sjMXxO/view?usp=sharing" target="_blank" download>
+      <button className="DownloadButton">
+        Please click here to download Resume
+      </button>
+    </a>
           </Col>
         </Row>
       </div>

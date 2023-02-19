@@ -23,6 +23,12 @@ class Profile extends React.Component {
           <Col>
             <ProfileDetails />
             <div class="footer-icons">
+            <a
+                href="https://wa.me/+918174979703"
+                className="socialicon"
+              >
+                <i class="fab fa-whatsapp"></i>
+              </a>
               <a
                 href="https://instagram.com/pankajpal._?igshid=ZmZhODViOGI="
                 className="socialicon"

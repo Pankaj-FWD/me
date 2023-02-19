@@ -28,6 +28,16 @@ export default class Footer extends React.Component {
               <i class="fa fa-phone"></i>
               <p>+91-8174979703</p>
             </div>
+            <div>
+              <i class="fab fa-whatsapp"></i>
+              <p>
+              <a
+                href="https://wa.me/+918174979703"
+              >
+                whatsapp
+              </a>
+              </p>
+            </div>
 
             <div>
               <i class="fa fa-envelope"></i>

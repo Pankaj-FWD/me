@@ -52,8 +52,18 @@ export const ProgrammingSkills = [
   //Experience
   export const ExperienceObject = [
     {
+      company: "Publicis Re:Sources, Remote",
+      date: "March 2023 - Present",
+      role: "Associate Technology L1",
+      imageSrc:
+        "https://media.glassdoor.com/sqll/879059/re-sources-squareLogo-1658505036335.png",
+      desc: `
+      As an Associate Technology L1 and MERN Developer, my responsibilities include providing technical support to clients, diagnosing and troubleshooting technical issues, testing new software and hardware releases, monitoring and maintaining the health of systems and networks, and implementing and maintaining security measures to protect the systems and networks from cyber threats. In addition, I develop web applications using the MERN (MongoDB, Express, React, Node.js) stack, create and maintain documentation of technical issues, resolutions, and standard operating procedures, and continuously evaluate new technologies and recommend improvements to the existing systems and processes.
+      `
+    },
+    {
       company: "Flexsin Technology, Noida",
-      date: "Jan 2022 – Present",
+      date: "Jan 2022 - March 2023",
       role: "Full stack developer",
       imageSrc:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn1KE-0vXu2RCvnlJrh5Sc9N92iS_jM-XZUg&usqp=CAU",

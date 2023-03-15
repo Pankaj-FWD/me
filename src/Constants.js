@@ -45,7 +45,7 @@ export const ProgrammingSkills = [
   
   export const Name = "PANKAJ PAL";
   export const PhoneNumber = "+91-8174979703";
-  export const EmailAddress = "pankajpal@gamil.com";
+  export const EmailAddress = "pankajpal096@gamil.com";
   export const Home = "Noida, INDIA";
   // • Coding Platforms: HackerEarth, HackerRank, CodeChef, TopCoder, Github.
   
